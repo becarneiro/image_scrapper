@@ -1,3 +1,4 @@
-# MBA Study Repo
+# Pet Image Scraper
 
-This repository was created with the intent of archiving some of the code developed during my MBA in Data Engineering.
+This Jupyter notebook uses Selenium and BeautifulSoup to search all images of "dogs" and "cats" (pt-br: "cachorro" e "gato") from https://unsplash.com/ with infinite scroll.
+It downloads all images and saves them into directories according to the pet category.
